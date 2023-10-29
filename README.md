@@ -1,4 +1,4 @@
-# chatapp
+# Studo Industry
 
 A new Flutter project.
 
